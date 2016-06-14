@@ -1,0 +1,12 @@
+html{
+  font-size: 1vw;
+}
+#banner{
+  width: 90rem;
+}
+.centered{
+  padding: 0 5rem;
+}
+.intro{
+  font-size: 2rem;
+}
